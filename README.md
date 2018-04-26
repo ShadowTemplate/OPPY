@@ -8,64 +8,68 @@ and makes me a better scientist, a better friend and, overall, a better person.
 
 Further details can be found in the lightning-talk I gave for 
 [Speck&Tech](http://speckand.tech/) in Trento. It was my first public speech 
-and I was very anxious, don't be too severe with me. Here you can find 
+and I was very anxious, do not be too severe with me. Here you can find 
 [the presentation](
 https://github.com/ShadowTemplate/OPPY/blob/master/Speck%26Tech%20talk/Speck%26Tech%20presentation%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.pdf), 
 [my notes](
 https://github.com/ShadowTemplate/OPPY/blob/master/Speck%26Tech%20talk/Speck%26Tech%20notes%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.txt) 
 and [the video]() (X:XX).
 
-*Sharing is caring.* Here can find further details about my annual projects. 
+*Sharing is caring.* Here you can find further details about my annual 
+projects.
 Some of them are still ongoing.
 
 I sincerely hope OPPY could inspire you to **follow your passions and your 
 dreams**.
 
 
-## Xantudd's Kennel - *2014, June* (completed)
+## Asimov - *2018, April* (ongoing)
 
-During summer, I developed a website for my friend Nino, an afghan hounds 
-breeder in my hometown, Bari. It was my first real experience with CSS, HTML 
-and JavaScript, despite having attended over twenty university courses for my
-bachelor's degree in computer science. The final result wasn't for sure 
-extraordinary, but the customer was very satisfied and that was enough for me.
-I also earned some money I later spent for my modest 
-[LEGO collection]() #TODO. If you need some puppies, take a look at 
-[Xantudd's Kennel](http://www.xantudds.com/)!
+*“Self-education is, I firmly believe, the only kind of education there is.”* -
+Isaac Asimov
+
+This is a famous quote I have heard from a former senior dev colleague and that I
+am starting to understand only now.
+After my master's degree I have become even more responsible of my own 
+education.
+In a similar way to *#50weeksofTED* I will try to spend the vast majority of my 
+spare time reading scientific papers of different kinds.
+This time the task is way harder.
+
+In the [project folder](
+https://github.com/ShadowTemplate/OPPY/tree/master/Asimov) you can find the 
+[talks I have already read](
+https://github.com/ShadowTemplate/OPPY/blob/master/Asimov/list.txt) for the 
+project, [those read in the past years](
+https://github.com/ShadowTemplate/OPPY/blob/master/Asimov/legacy/list.txt
+) that I will retro-classify, 
+[those dropped](
+https://github.com/ShadowTemplate/OPPY/blob/master/Asimov/dropped/list.txt
+) and [my current reading list](
+https://github.com/ShadowTemplate/OPPY/blob/master/Asimov/queue/list.txt
+).
+
+I usually read each paper twice: the first time to grasp a general idea, the 
+second to highlight the most important concepts.
+Then, I classify them by year and title in [my ring binder]().
+
+I have developed [a simple tool](
+https://github.com/ShadowTemplate/arxiv-downloader) to easily download papers 
+from [arXiv](http://arxiv.org/), the main source I use.
+
+If you have anything interesting to suggest, feel free to share!
+
+Thanks Ramzi for having inspired me.
 
 
-## Computer Scientists 💾 - *2015, October* (ongoing)
+## Elric - *2017, January* (completed)
 
-Many people consider chat groups annoying and they tend to run away from them 
-as soon as possible or, if not possibile, mute them (typically forever).
-I consider many of my groups an invaluable asset.
-In 2015, after my bachelor's degree, I created a group with many university 
-colleagues in order to keep in touch and, most of all, share interesting ideas,
-articles, news, advices, and, why not, jokes. No spam, no flooding.
-I learn a lot from them and, even more important, we still periodically reunite
-away from keyboards.
-Thanks guys, you are awesome. 
+TODO.
 
 
-## #50weeksofTED - *2015, October* (completed)
+## NErdeST - *2016, April* (ongoing)
 
-For 50 weeks I have spent the vast majority of my spare time watching TED 
-talks.
-In the end I've watched over 140 talks (35 hours circa) and participated to 
-three live TEDx events in Italy.
-I've [tweeted all of them to keep a history](
-https://twitter.com/search?l=&q=%2350weeksofTED%20from%3Adjanvito) ([txt version]()) 
-and also managed to [rank them]() (that was hard!).
-Even one single TED talk can influence your life, imagine 140.
-Moreover, during the year I've always had a lot of really nice conversation 
-topics and also the sensation to understand more profoundly the world around 
-me.
-I've successfully engaged my friends in this experience and I still love 
-watching new talks.
-Recently I've developed [a simple tool](
-https://github.com/ShadowTemplate/ted-downloader) to easily download talks from 
-the official website.
-TED deserve your time and your support: **keep worthy ideas spreading**.
+TODO.
 
 
 ## #dayoff - *2016, January* (ongoing)
@@ -81,41 +85,54 @@ Just try and try and try again, you will slowly understand what I mean.
 Ah, sorry but... never expect *"Happy New Year!"* from me.
 
 
-## NErdeST - *2016, April* (ongoing)
+## #50weeksofTED - *2015, October* (completed)
 
-TODO.
+For 50 weeks I have spent the vast majority of my spare time watching 
+[TED](https://www.ted.com/) talks.
+In the end I have watched over 140 talks (35 hours circa) and participated to 
+three live TEDx events in Italy.
+I have [tweeted all of them to keep a history](
+https://twitter.com/search?l=&q=%2350weeksofTED%20from%3Adjanvito) 
+([txt version](
+https://github.com/ShadowTemplate/OPPY/blob/master/%2350weeksofTED/TED%20talks%20list.txt)) 
+and also managed to [rank them](
+https://github.com/ShadowTemplate/OPPY/blob/master/%2350weeksofTED/TED%20talks%20ranking.txt
+) (that was hard!).
 
-## Elric - *2017, January* (completed)
+Even one single TED talk can influence your life, imagine 140.
+Moreover, during the year I have always had a lot of really nice conversation 
+topics and also the sensation to understand more profoundly the world around 
+me.
+I have successfully engaged my friends in this experience and I still love 
+watching new talks.
 
-TODO.
+Recently I have developed [a simple tool](
+https://github.com/ShadowTemplate/ted-downloader) to easily download talks from 
+the official website.
 
-## Asimov - *2018, April* (ongoing)
+TED deserve your time and your support: **keep worthy ideas spreading**.
 
-*“Self-education is, I firmly believe, the only kind of education there is.”* -
-Isaac Asimov
 
-This is a famous quote I've heard from a former senior dev colleague and that I
-am starting to understand only now.
-After my master's degree I have become even more responsible of my own 
-education.
-In a similar way to *#50weeksofTED* I will try to spend the vast majority of my 
-spare time reading scientific papers of different kinds.
-This time the task is way harder.
-I've developed [a simple tool](
-https://github.com/ShadowTemplate/arxiv-downloader) to easily download papers 
-from arXiv, the main source I use.
+## Computer Scientists 💾 - *2015, October* (ongoing)
 
-In the [project folder]() you can find the [talks I have already read]() for the 
-project, [those read in the past years]() that I will retro-classify, 
-[those dropped]() and [my reading list]().
+Many people consider chat groups annoying and they tend to run away from them 
+as soon as possible or, if not possibile, mute them (typically forever).
+I consider many of my groups an invaluable asset.
+In 2015, after my bachelor's degree, I created a group with many university 
+colleagues in order to keep in touch and, most of all, share interesting ideas,
+articles, news, advices, and, why not, jokes. No spam, no flooding.
+I learn a lot from them and, even more important, we still periodically reunite
+away from keyboards.
+Thanks guys, you are awesome. 
 
-I usually read each paper twice: the first time to grasp a general idea, the 
-second to highlight the most important concepts.
-Then, I classify them by year and title in [my ring binder]().
 
-If you have something interesting to suggest, feel free to share!
+## Xantudd's Kennel - *2014, June* (completed)
 
-It is too early to express some considerations on the project.
-Stay tuned, since I have a very positive presentiment.
-
-Thanks Ramzi for having inspired me.
+During summer, I developed a website for my friend Nino, an afghan hounds 
+breeder in my hometown, Bari. It was my first real experience with CSS, HTML 
+and JavaScript, despite having attended over twenty university courses for my
+bachelor's degree in computer science. The final result was not for sure 
+extraordinary, but the customer was very satisfied and that was enough for me.
+I also earned some money I later spent for my modest 
+[LEGO collection]() #TODO. If you need some puppies, take a look at 
+[Xantudd's Kennel](http://www.xantudds.com/)!
