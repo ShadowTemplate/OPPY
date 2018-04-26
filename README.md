@@ -84,7 +84,7 @@ https://github.com/ShadowTemplate/OPPY#nerdest---2016-april-ongoing) gifting us
 with their cards.
 
 [This is the epic final results](
-https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/ring_binder.jpg), 
+https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/elric_final.jpg), 
 with the [base set](https://bulbapedia.bulbagarden.net/wiki/Base_Set_(TCG)), 
 [Jungle](https://bulbapedia.bulbagarden.net/wiki/Jungle_(TCG)) and [Fossil](
 https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)).
