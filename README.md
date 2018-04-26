@@ -22,10 +22,10 @@ Some of them are still ongoing.
 I sincerely hope OPPY could inspire you to **follow your passions and your 
 dreams**.
 
-
+---
 ## Asimov - *2018, April* (ongoing)
 
-*“Self-education is, I firmly believe, the only kind of education there is.”* -
+> *Self-education is, I firmly believe, the only kind of education there is.* -
 Isaac Asimov
 
 This is a famous quote I have heard from a former senior dev colleague and that I
@@ -51,7 +51,8 @@ https://github.com/ShadowTemplate/OPPY/blob/master/Asimov/queue/list.txt
 
 I usually read each paper twice: the first time to grasp a general idea, the 
 second to highlight the most important concepts.
-Then, I classify them by year and title in [my ring binder]().
+Then, I classify them by year and title in [my ring binder](
+https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/lego_collection.jpg).
 
 I have developed [a simple tool](
 https://github.com/ShadowTemplate/arxiv-downloader) to easily download papers 
@@ -61,19 +62,17 @@ If you have anything interesting to suggest, feel free to share!
 
 Thanks Ramzi for having inspired me.
 
-
+---
 ## Elric - *2017, January* (completed)
 
 TODO.
 
 ---
-
 ## NErdeST - *2016, April* (ongoing)
 
 TODO.
 
 ---
-
 ## #dayoff - *2016, January* (ongoing)
 
 The first day of every month I keep my mobile phone turned off.
@@ -86,8 +85,7 @@ as travelling or eating.
 Just try and try and try again, you will slowly understand what I mean.
 Ah, sorry but... never expect *"Happy New Year!"* from me.
 
-***
-
+---
 ## #50weeksofTED - *2015, October* (completed)
 
 For 50 weeks I have spent the vast majority of my spare time watching 
@@ -115,9 +113,9 @@ the official website.
 
 TED deserve your time and your support: **keep worthy ideas spreading**.
 
-***
-
+---
 ## Computer Scientists 💾 - *2015, October* (ongoing)
+## Computer Scientists :floppy_disk: - *2015, October* (ongoing)
 
 Many people consider chat groups annoying and they tend to run away from them 
 as soon as possible or, if not possibile, mute them (typically forever).
@@ -130,7 +128,7 @@ reunite away from keyboard](
 https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/computer_scientists.jpg).
 Thanks guys, you are awesome. 
 
-
+---
 ## Xantudd's Kennel - *2014, June* (completed)
 
 During summer, I developed a website for my friend Nino, an afghan hounds 
