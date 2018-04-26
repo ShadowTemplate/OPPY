@@ -34,8 +34,8 @@ After my master's degree I have become even more responsible of my own
 education.
 In a similar way to [#50weeksofTED](
 https://github.com/ShadowTemplate/OPPY#50weeksofted---2015-october-completed) 
-I will try to spend the vast majority of my 
-spare time reading scientific papers of different kinds.
+**I will try to spend the vast majority of my 
+spare time reading scientific papers of different kinds**.
 This time the task is way harder.
 
 I usually read each paper twice: the first time to grasp a general idea, the 
@@ -70,8 +70,8 @@ Thanks Ramzi for having inspired me.
 
 This project tells a story about brotherhood, on how I have reconnected with 
 Checco after 2 years away from home.
-Together we have achieved our childhood dream and completed our Pokémon card 
-collection started in 1999, when we were 6 and 4.
+Together we have achieved our childhood dream and **completed our Pokémon card 
+collection started in 1999**, when we were 6 and 4.
 We have spent countless hours together, especially during Christmas and Easter, 
 trying to figure out how to collect and show the cards (over 200) and building 
 the frame.
@@ -92,26 +92,47 @@ https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)).
 ---
 ## NErdeST - *2016, April* (ongoing)
 
-TODO.
+**_NErdeST_ is the nerd club I have founded with a group of friends** while I 
+was living in [Nest](http://nest-trento.it/), a hall of residence in Trento.
+
+The club is composed of 40-50 people and over two years we have organized 
+dozens of weekly events and we have lived many unforgettable moments 
+**together**, which is a non-trivial thing, considering we are nerd.
+We have played together games (board games, role play games, videogames, 
+card games); we have watched together, day and night, TV series, movies, 
+animes; we have played soft air together and so on.
+
+Beside reuniting all the types of nerds under a common flag we have also tried 
+to share our passions with not-yet-nerd people, involving them in different 
+events and parties.
+
+Coordinating this club has been unexpectedly hard and extraordinarily funny, 
+but most of all it has been an invaluable experience for the sett of soft 
+skills I have improved (time management, verbal communication, leadership, 
+planning).
+
+The club is now managed by a group of guys still living in Trento.
 
 ---
 ## #dayoff - *2016, January* (ongoing)
 
-The first day of every month I keep my mobile phone turned off.
+**The first day of every month I keep my mobile phone turned off.**
 This is a wonderful habit I always respect and highly recommend.
 It is a way to detoxify from technology and get more in contact with people.
 In addition, I have rediscovered some little pleasures coming from situations 
 that are disappearing in modern society.
+
 It is really hard to explain how engaging and funny can be common things such 
 as travelling or eating.
 Just try and try and try again, you will slowly understand what I mean.
+
 Ah, sorry but... never expect *"Happy New Year!"* from me.
 
 ---
 ## #50weeksofTED - *2015, October* (completed)
 
-For 50 weeks I have spent the vast majority of my spare time watching 
-[TED](https://www.ted.com/) talks.
+**For 50 weeks I have spent the vast majority of my spare time watching 
+[TED](https://www.ted.com/) talks**.
 In the end I have watched over 140 talks (35 hours circa) and participated to 
 three live TEDx events in Italy.
 I have [tweeted all of them to keep a history](
@@ -141,8 +162,8 @@ TED deserve your time and your support: **keep worthy ideas spreading**.
 Many people consider chat groups annoying and they tend to run away from them 
 as soon as possible or, if not possibile, mute them (typically forever).
 I consider many of my groups an invaluable asset.
-In 2015, after my bachelor's degree, I created a group with many university 
-colleagues in order to keep in touch and, most of all, share interesting ideas,
+In 2015, after my bachelor's degree, **I created a group with many university 
+colleagues** in order to keep in touch and, most of all, share interesting ideas,
 articles, news, advices, and, why not, jokes. No spam, no flooding.
 I learn a lot from them and, even more important, [we still periodically 
 reunite away from keyboard](
@@ -152,7 +173,7 @@ Thanks guys, you are awesome.
 ---
 ## Xantudd's Kennel - *2014, June* (completed)
 
-During summer, I developed a website for my friend Nino, an afghan hounds 
+During summer, **I developed a website** for my friend Nino, an afghan hounds 
 breeder in my hometown, Bari. It was my first real experience with CSS, HTML 
 and JavaScript, despite having attended over twenty university courses for my
 bachelor's degree in computer science. The final result was not for sure 
