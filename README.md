@@ -1,10 +1,13 @@
 # One Project Per Year (OPPY)
 
-OPPY is my meta-project started in 2014. Every year I try to complete (at 
-least) one personal project to add some value to my life. Projects can be of 
-different kinds: technical side projects, personal challenges, good habits. I
-firmly believe that engaging in this projects has a positive impact on my life
-and makes me a better scientist, a better friend and, overall, a better person.
+OPPY is my meta-project started in 2014: **every year I try to complete at 
+least one personal project to add some value to my life.**
+
+Projects can be of different kinds: technical side projects, personal 
+challenges, good habits. 
+I firmly believe that engaging in this projects has a positive impact on my 
+life and makes me a better scientist, a better friend and, overall, a better 
+person.
 
 Further details can be found in the lightning-talk I gave for 
 [Speck&Tech](http://speckand.tech/) in Trento. It was my first public speech, 
@@ -97,7 +100,7 @@ was living in [Nest](http://nest-trento.it/), a hall of residence in Trento.
 
 The club is composed of 40-50 people and over two years we have organized 
 dozens of weekly events and we have lived many unforgettable moments 
-**together**, which is a non-trivial thing, considering we are nerd.
+*together*, which is a non-trivial thing, considering we are nerd.
 We have played together games (board games, role play games, videogames, 
 card games); we have watched together, day and night, TV series, movies, 
 animes; we have played soft air together and so on.
