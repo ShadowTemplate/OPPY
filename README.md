@@ -26,7 +26,7 @@ I sincerely hope OPPY could **inspire you to follow your passions and your
 dreams**.
 
 ---
-## ![#00ff00](https://placehold.it/20/00ff00/000000?text=+) Asimov - *2018, April* (ongoing)
+## ![#0fff7f](https://placehold.it/18/0fff7f/000000?text=+) Asimov - *2018, April* (ongoing)
 
 > *Self-education is, I firmly believe, the only kind of education there is.* -
 Isaac Asimov
@@ -69,7 +69,7 @@ If you have anything interesting to suggest, feel free to share!
 Thanks Ramzi for having inspired me.
 
 ---
-## ![#0000ff](https://placehold.it/20/0000ff/000000?text=+) Elric - *2017, January* (completed)
+## ![#0f7fff](https://placehold.it/18/0f7fff/000000?text=+) Elric - *2017, January* (completed)
 
 This project tells a story about brotherhood, on how I have reconnected with 
 Checco after 2 years away from home.
@@ -93,7 +93,7 @@ with the [base set](https://bulbapedia.bulbagarden.net/wiki/Base_Set_(TCG)),
 https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)).
 
 ---
-## NErdeST - *2016, April* (completed)
+## ![#0f7fff](https://placehold.it/18/0f7fff/000000?text=+) NErdeST - *2016, April* (completed)
 
 **_NErdeST_ is the nerd club I have founded with a group of friends** while I 
 was living in [Nest](http://nest-trento.it/), a hall of residence in Trento.
@@ -117,7 +117,7 @@ planning).
 The club is now managed by a group of guys still living in Trento.
 
 ---
-## #dayoff - *2016, January* (ongoing)
+## ![#0fff7f](https://placehold.it/18/0fff7f/000000?text=+) #dayoff - *2016, January* (ongoing)
 
 **The first day of every month I keep my mobile phone turned off.**
 This is a wonderful habit I always respect and highly recommend.
@@ -132,7 +132,7 @@ Just try, try and try again: you will slowly understand what I mean.
 Ah, sorry but... never expect *"Happy New Year!"* from me.
 
 ---
-## #50weeksofTED - *2015, October* (completed)
+## ![#0f7fff](https://placehold.it/18/0f7fff/000000?text=+) #50weeksofTED - *2015, October* (completed)
 
 **For 50 weeks I have spent the vast majority of my spare time watching 
 [TED](https://www.ted.com/) talks**.
@@ -159,7 +159,7 @@ the official website.
 TED deserve your time and your support: **keep worthy ideas spreading**.
 
 ---
-## Computer Scientists :floppy_disk: - *2015, October* (ongoing)
+## ![#0fff7f](https://placehold.it/18/0fff7f/000000?text=+) Computer Scientists :floppy_disk: - *2015, October* (ongoing)
 
 Many people consider chat groups annoying and tend to run away from them 
 as soon as possible or, if not possibile, mute them (typically forever).
@@ -173,7 +173,7 @@ https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/computer_s
 Thanks guys, you are awesome. 
 
 ---
-## Xantudd's Kennel - *2014, June* (completed)
+## ![#0f7fff](https://placehold.it/18/0f7fff/000000?text=+) Xantudd's Kennel - *2014, June* (completed)
 
 During summer, **I developed a website** for my friend Nino, an afghan hounds 
 breeder in my hometown, Bari. It was my first real experience with CSS, HTML 
