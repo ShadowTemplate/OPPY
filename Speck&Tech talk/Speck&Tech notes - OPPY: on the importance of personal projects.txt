@@ -1,0 +1,53 @@
+Hello everybody, my name is Gianvito, I'm 24 and I'm a computer scientist from Bari.
+First of all, thank you very much for this chance: it's nice to be part of Spech&Tech and a little bit weird to be on this side of the room. Yes, I am an old-school social person.
+This is not really a technical talk. It is more about ideas since I'm going to describe my meta-project OPPY. The acronym stands for One-Project-Per-Year. As the name suggests, every year I try to complete at least one personal project. At the beginning they were all supposed to be technical, but things have unexpectedly changed over the months.
+*****
+Typically people search for legacy in adulthood. In my case it all started in boyhood. I have always felt a deep urgency to accomplish projects, reach goals and somehow leave a trace, even if at the beginning such thing was unclear and blurred.
+We can let the story begin in 2014.
+*****
+I decide to develop a responsive website for an afghan hounds breeder in Bari. Nothing special from a technical point of view, yet useful. I gained experience in CSS and JavaScript; I understood what I DIDN'T want to do for the rest of my life, namely web development, so I chose my side (back end);
+*****
+and last but not least I saved a little money I later spent for my LEGO collection.
+*****
+So, one step ahead: October 2015, a critical point of my life. I resign from my job and decide to start studying again. I put in order my mind, I write a gigantic farewell post on Facebook. Above all, I realize that when it comes to develop my ideas I tend to procrastinate, complain about insufficient time and find other excuses. I recognize I need more rigour and so I devise OPPY to keep myself committed and motivated. And by the way, I can see the positive aspects of Facebook, the point is I don't like the way it is changing our lives and its misuse, especially in younger generations.
+*****
+So I quit Facebook and to keep in touch with my university colleagues I simply create a group. Am I the only one who thinks that groups have become a sort of infectious disease? "Oh-my-godness, I've been added to a new group!". People are scared by groups. They are happy when they can't be part of the event and leave the group immediately. I consider some of my groups an invaluable asset. This one is made up of 20 carefree people and IN THE SAME WAY we collect bets on groundbreaking worldwide events about deep learning and we post stupid memes.
+*****
+Broadly speaking, I believe this is also the way we should live our lives: half-seriously. In this environment I felt confident in sharing a document with all my ideas for OPPY. Many friends have embraced my meta-project and started their own ones. 
+*****
+Every real computer scientist always has pending ideas. Our latest reunion.
+*****
+#50weeksofTED. For over a year I've tried to watch as many TED talks as possible. If you don't what TED is please ask Fata later. She's the blond girl over there.
+*****
+In the end I've watched over 140 talks, 35 hours circa (still less than Game of Thrones), I've tweeted all of them to keep a history and also managed to rank them and that wasn't easy (there is a link in the last slide for those of you interested). Some of you probably know how even one single talk can influence your life, imagine in my case 140. Moreover, during the year I've always had a lot of really nice conversation topics and also the sensation to understand more profoundly the world around me.
+*****
+In between I've participated to three TEDx events, two here in Trento and one in Milan. As you can see, I've successfully engaged my friends in this experience
+*****
+and some of them have found the project interesting enough to keep it running.
+*****
+#dayoff. I simply shut down my phone the first day of every month. I still do it, so if I am also away from keyboard I'm 100% out of reach. I've discovered the joy of living without phone when I was working in Paris and this project is a way to detoxify myself, since we are all addicted to technology.
+*****
+The positive consequences of this project have been vastly superior than I expected, and they affect also the rest of the month. I've rediscovered many old-time beautiful things. No alarm clocks, no time, asking information to strangers, conversations, conversations while travelling, conversations while eating, mental efforts to remember things.
+This is a recent conversation I had on Jodel. The guy was describing the sense of lightness experienced while being without phone. I suggested him to try #dayoff. We'll see what happens the 1st of July.
+*****
+I live in Nest, an hall of residence in Trento Nord. It's a place I love for many reasons, one is the great freedom we have to hold events. I am a co-founder of NErdeST, a nerd club of 40-50 people. We have organized weekly events since April 2016 and we have lived many unforgettable moments TOGETHER, which is a non-trivial thing if you consider we are nerd. We have played together games (board games, role play games, videogames, card games); we have watched together, day and night, TV series, movies, animes; and so on.
+*****
+Beside reuniting all the types of nerds under a common flag we have also tried to share our passions with not-yet-nerd people. We can proudly say we have planted the nerd seed in many of them. Here is my friend Stefano. Before knowing me he had never thought about buying manga. E invece... Lucca Comics and Games, one of his childhood dream. On the right side you can see his first Japanese Telegram lesson with Asako, a friend of mine.
+*****
+This is how Stefano left Trento on Monday. You can see the Japanese dictionary and books. This is one of my greatest victory.
+*****
+So the last story is about brotherhood and in particular on how I've reconnected with my brother Checco. After 2 years away from home I felt our relationship was getting weaker and this was unacceptable. So I had to find a trick to get the chance to spend some quality time with him.
+*****
+And the trick was trying to achieve our childhood dream and complete our Pokémon card collection started in 1999, when we were 6 and 4. We have spent countless hours together, especially during Christmas and Easter, trying to figure out how to collect and show the cards (over 200) and building the frame. 
+*****
+This is a story of eBay auctions won at night, of a continuous flow of packages from the postal service, of repetitive work, such as cutting 1000 adhesive corners.
+*****
+It is a story of friendship as well, since nothing would have been possible without Lorenzo, for example, or Mirco and the NErdeST gifting us with their cards.
+*****
+We've had many technical problems... I've rearranged my bookcase on Easter Monday with my uncle. Everything was absolutely awesome.
+*****
+There is a missing picture and it is the one with me and my brother, kneel down, happy at the two corners of the frame. I can't wait to go home on July and shoot it, since I still haven't seen the final result on the wall.
+*****
+So guys, stop finding excuses. Live your lives to the fullest. Do what you love. Resonate with other people away from keyboard. Social media are bullshit. [Looking at my watch] Can I say bullshit? Children are sleeping.
+
+Thank you very much!

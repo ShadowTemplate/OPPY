@@ -1,0 +1,35 @@
+2007 - Universal Intelligence: A Definition of Machine Intelligence - S. Legg, M. Hutter
+https://arxiv.org/abs/0712.3329
+
+2009 - Posterior Regularization for Structured Latent Variable Models - K. Ganchev, J. Graça, J. Gillenwater, B. Taskar
+http://jmlr.csail.mit.edu/papers/volume11/ganchev10a/ganchev10a.pdf
+
+2013 - Distributed Representations of Words and Phrases and their  Compositionality - T. Mikolov, I. Sutskever, K. Chen, G. Corrado, J. Dean
+https://arxiv.org/abs/1310.4546
+
+2013 - In Search of an Understandable Consensus Algorithm (Extended Version) - D. Ongaro, J. Ousterhout
+https://raft.github.io/raft.pdf
+
+2013 - Linguistic Regularities in Continuous Space Word Representations - T. Mikolov, S. W. Yih, G. Zweig
+https://www.microsoft.com/en-us/research/publication/linguistic-regularities-in-continuous-space-word-representations/
+
+2014 - Generative Adversarial Networks - I. J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio
+https://arxiv.org/abs/1406.2661
+
+2015 - SemEval-2015 Task 2: Semantic Textual Similarity, English, Spanish and Pilot on Interpretability - E. Agirre, C. Banea, C. Cardie et al
+http://www.aclweb.org/anthology/S15-2045
+
+2015 - SemEval-2015 Task 3: Answer Selection in Community Question Answering - P. Nakov, L. M. i Villodre, W. Magdy, A. Moschitti, J. Glass, B. Randeree
+http://www.aclweb.org/anthology/S15-2047
+
+2015 - Short Text Similarity with Word Embeddings - T. Kenter, M. de Rijke
+https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/kenter-short-2015.pdf
+
+2016 - Harnessing Deep Neural Networks with Logic Rules - Z. Hu, X. Ma, Z. Liu, E. Hovy, E. Xing
+https://arxiv.org/abs/1603.06318
+
+2016 - Overview of the EVALITA 2016 Question Answering for Frequently Asked Questions (QA4FAQ) Task - A. Caputo, M. de Gemmis, P. Lops, F. Lovecchio, V. Manzari
+http://ceur-ws.org/Vol-1749/paper_022.pdf
+
+2017 - Boundary-Seeking Generative Adversarial Networks - R D. Hjelm, A. P. Jacob, T. Che, A. Trischler, K. Cho, Y. Bengio
+https://arxiv.org/abs/1702.08431 

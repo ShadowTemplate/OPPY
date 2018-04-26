@@ -1,0 +1,107 @@
+1 - Barry Schwartz: The paradox of choice
+2 - Hugh Herr: New Bionics Let Us Run, Climb and Dance
+3 - Stefan Sagmeister: The power of time off
+4 - Michael Hansmeyer: Building unimaginable shapes
+5 - Oliver Sacks: What hallucination reveals about our minds
+6 - John Maeda: Designing for simplicity
+7 - Jonathan Harris: The Web's secret stories
+8 - Greg Asner: Ecology from the air
+9 - Diana Nyad: Never, ever give up
+10 - Glenn Greenwald: Why privacy matters
+11 - Benedetta Berti: The surprising way groups like ISIS stay in power
+12 - Zak Ebrahim: I am the son of a terrorist. Here's how I chose peace
+13 - Apollo Robbins: The art of misdirection
+14 - Cameron Russell: Looks aren't everything. Believe me, I'm a model.
+15 - TEDxTrento 2015 LIVE!
+16 - Tim Berners-Lee: The next web
+17 - Tim Berners-Lee: The year open data went worldwide
+18 - Tim Berners-Lee: A Magna Carta for the web
+19 - Andreas Ekström: The moral bias behind your search results
+20 - Eli Pariser: Beware online "filter bubbles"
+21 - Dean Kamen: Luke, a new prosthetic arm for soldiers
+22 - Dean Kamen: The emotion behind invention
+23 - Seth Berkley: The troubling reason why vaccines are made too late... if they're made at all
+24 - Will Potter: The secret US prisons you've never heard of before
+25 - Shane Koyczan: To This Day... for the bullied and beautiful
+26 - Mike Rowe: Learning from dirty jobs
+27 - Nancy Lublin: The heartbreaking text that inspired a crisis help line
+28 - Amy Cuddy: Your body language shapes who you are
+29 - Jenni Chang and Lisa Dazols: This is what LGBT life is like around the world
+30 - Daniel Levitin: How to stay calm when you know you'll be stressed
+31 - John Green: The nerd's guide to learning everything online
+32 - Hans Rosling: The best stats you've ever seen
+33 - Brené Brown: The power of vulnerability
+34 - Brené Brown: Listening to shame
+35 - James Veitch: This is what happens when you reply to spam email
+36 - Jonathan Zittrain: The Web as random acts of kindness
+37 - Idriz Zogaj: How to become a memory master
+38 - Becky Blanton: The year I was homeless
+39 - Logan LaPlante: Hackschooling makes me happy
+40 - Ken Robinson: Do schools kill creativity?
+41 - Reggie Watts: Beats that defy boxes
+42 - Rives: If I controlled the Internet
+43 - Ian Ritchie: The day I turned down Tim Berners-Lee
+44 - Francesco Sauro: Deep under the Earth's surface, discovering beauty and science
+45 - Benjamin Zander: The transformative power of classical music
+46 - Chimamanda Ngozi Adichie: The danger of a single story
+47 - Steven Levitt: The freakonomics of crack dealing
+48 - Marina Abramović: An art made of trust, vulnerability and connection
+49 - Amy Tan: Where does creativity hide?
+50 - Gever Tulley: 5 Dangerous Things You Should Let Your Children Do
+51 - Bobby McFerrin: Watch me play ... the audience!
+52 - Billy Graham: On technology and faith
+53 - Carl Honoré: In praise of slowness
+54 - Matthieu Ricard: The habits of happiness
+55 - Chip Conley: Measuring what makes life worthwhile
+56 - Alain de Botton: A kinder, gentler philosophy of success
+57 - Christopher McDougall: Are we born to run?
+58 - Seth Godin: How to get your ideas to spread
+59 - Harald Haas: Forget Wi-Fi. Meet the new Li-Fi Internet
+60 - Robert Neuwirth: The hidden world of shadow cities
+61 - John Graham-Cumming: The greatest machine that never was
+62 - Linus Torvalds: The mind behind Linux
+63 - Danielle Feinberg: The magic ingredient that brings Pixar movies to life
+64 - Ken Robinson: Bring on the learning revolution!
+65 - Edward Snowden: Here's how we take back the Internet
+66 - Barry Schwartz: Using our practical wisdom
+67 - Ann Morgan: My year reading a book from every country in the world
+68 - Hans and Ola Rosling: How not to be ignorant about the world
+69 - Nigel Marsh: How to make work-life balance work
+70 - Ellen Jorgensen: Biohacking - you can do it, too
+71 - John Wooden: The difference between winning and succeeding
+72 - Mihaly Csikszentmihalyi: Flow, the secret to happiness
+73 - Philip Zimbardo: The psychology of evil
+74 - Esther Perel: Rethinking infidelity ... a talk for anyone who has ever loved
+75 - David Christian: The history of our world in 18 minutes
+76 - Dan Pink: The puzzle of motivation
+77 - James Hansen: Why I must speak out about climate change
+78 - Dan Gilbert: The surprising science of happiness
+79 - Tim Urban: Inside the mind of a master procrastinator
+80 - Elizabeth Lev: The unheard story of the Sistine Chapel
+81 - Alexander Betts: Our refugee system is failing. Here's how we can fix it
+82 - Barry Schwartz: The Way We Think about Work Is Broken
+83 - Sergey Brin and Larry Page: The genesis of Google
+84 - Malcolm Gladwell: Choice, happiness and spaghetti sauce
+85 - David Gallo: Underwater astonishments
+86 - Siegfried Woldhek: The search for the true face of Leonardo
+87 - Temple Grandin: The world needs all kinds of minds
+88 - Tom Uglow: An Internet without screens might look like this
+89 - Tai Lopez: Why I read a book a day (and why you should too): the law of 33%
+90 - Sherwin Nuland: How electroshock therapy changed me
+
+91 - Boaz Almog: The levitating superconductor
+92 - Jok Church: A circle of caring
+93 - Toon Timmermans: Virtual Intimacy
+94 - Daniel Goleman: Why aren't we more compassionate?
+95 - Elizabeth Gilbert: Your elusive creative genius
+96 - Andreas Ekström: Google knowledge, Google money, Google power
+97 - Carlo Rovelli: Time does not exist
+98 - Orly Wahba: Kindness
+99 - Rick Falkvinge: Bitcoin and the Blockchain
+100 - Rick Falkvinge: The Pirate Party - The politics of protest
+101 - Eman Mohammed: The courage to tell a hidden story
+102 - David Litchfield: How doing a drawing a day changed my life
+
+103 - Stephen Wilkes: The passing of time, caught in a single photo
+104 - William Ury: The walk from "no" to "yes"
+

@@ -1,0 +1,62 @@
+2010 - Word representations: A simple and general method for semi-supervised learning - J. Turian, L. Ratinov, Y. Bengio
+https://www.aclweb.org/anthology/P10-1040
+
+2011 - Natural Language Processing (almost) from Scratch - R. Collobert, J. Weston, L. Bottou, M. Karlen, K. Kavukcuoglu, P. Kuksa
+http://ronan.collobert.com/pub/matos/2011_nlp_jmlr.pdf
+
+2012 - Best Practices for Scientific Computing - G. Wilson, D. A. Aruliah, C. T. Brown, N. P. C. Hong, M. Davis, R. T. Guy, S. H. D. Haddock, K. Huff, I. M. Mitchell, M. Plumbley, B. Waugh, E. P. White, P. Wilson
+https://arxiv.org/abs/1210.0530
+
+2012 - Representation Learning: A Review and New Perspectives - Y. Bengio, A. Courville, P. Vincent
+https://arxiv.org/abs/1206.5538
+
+2013 - Auto-Encoding Variational Bayes - D. P. Kingma, M. Welling.
+https://arxiv.org/abs/1312.6114
+
+2013 - Generating Sequences With Recurrent Neural Networks - A. Graves
+https://arxiv.org/abs/1308.0850
+
+2014 - Neural Turing Machines - A. Graves, G. Wayne, I. Danihelka
+https://arxiv.org/abs/1410.5401
+
+2015 - A note on the evaluation of generative models - L. Theis, A. v. d. Oord, M. Bethge
+https://arxiv.org/abs/1511.01844
+
+2015 - Unsupervised Representation Learning with Deep Convolutional Generative  Adversarial Networks - l. Radford, L. Metz, S. Chintala
+https://arxiv.org/abs/1511.06434
+
+2016 - Energy-based Generative Adversarial Network - J. Zhao, M. Mathieu, Y. LeCun
+https://arxiv.org/abs/1609.03126
+
+2016 - Improved Techniques for Training GANs - T. Salimans, I. Goodfellow, W. Zaremba, V. Cheung, A. Radford, Xi Chen
+https://arxiv.org/abs/1606.03498
+
+2016 - InfoGAN: Interpretable Representation Learning by Information Maximizing  Generative Adversarial Nets - Xi Chen, Y. Duan, R. Houthooft, J. Schulman, I. Sutskever, P. Abbeel
+https://arxiv.org/abs/1606.03657
+
+2016 - Learning to Compose Words into Sentences with Reinforcement Learning - D. Yogatama, P. Blunsom, C. Dyer, E. Grefenstette, W. Ling
+https://arxiv.org/abs/1611.09100
+
+2017 - A Neural Representation of Sketch Drawings - D. Ha, D. Eck
+https://arxiv.org/abs/1704.03477
+
+2017 - Adversarial Sets for Regularising Neural Link Predictors - P. Minervini, T. Demeester, T. Rocktäschel, S. Riedel
+https://arxiv.org/abs/1707.07596
+
+2017 - Generalization and Equilibrium in Generative Adversarial Nets (GANs) - S. Arora, R. Ge, Y. Liang, T. Ma, Yi Zhang
+https://arxiv.org/abs/1703.00573
+
+2017 - Iterative Multi-document Neural Attention for Multiple Answer Prediction - C. Greco, A. Suglia, P. Basile, G. Rossiello, G. Semeraro
+https://arxiv.org/abs/1702.02367
+
+2017 - Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm - D. Silver, T. Hubert, J. Schrittwieser et al
+https://arxiv.org/abs/1712.01815
+
+2017 - Stopping GAN Violence: Generative Unadversarial Networks - S. Albanie, S. Ehrhardt, J. F. Henriques
+https://arxiv.org/abs/1703.02528
+
+2017 - Towards Principled Methods for Training Generative Adversarial Networks - M. Arjovsky, L. Bottou
+https://arxiv.org/abs/1701.04862
+
+2017 - Wasserstein GAN - M. Arjovsky, S. Chintala, L. Bottou
+https://arxiv.org/abs/1701.07875

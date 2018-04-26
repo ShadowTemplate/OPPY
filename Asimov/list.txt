@@ -1,0 +1,5 @@
+2018 - Evidence for a mental health crisis ingraduate education - T. M. Evans, L. Bira, J. B. Gastelum, L. T. Weiss, N. L. Vanderford
+https://www.nature.com/articles/nbt.4089
+
+2018 - Progressive Growing of GANs for Improved Quality, Stability, and Variation - T. Karras, T. Aila, S. Laine, J. Lehtinen
+https://arxiv.org/abs/1710.10196
