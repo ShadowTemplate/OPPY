@@ -20,13 +20,13 @@ and [the video]() (X:XX).
 
 *Sharing is caring.* In this repository you can find further details about my 
 annual projects.
-Some of them are still ongoing.
+Some of them are still ongoing!
 
-I sincerely hope OPPY could inspire you to **follow your passions and your 
+I sincerely hope OPPY could **inspire you to follow your passions and your 
 dreams**.
 
 ---
-## Asimov - *2018, April* (ongoing)
+## ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Asimov - *2018, April* (ongoing)
 
 > *Self-education is, I firmly believe, the only kind of education there is.* -
 Isaac Asimov
@@ -86,21 +86,21 @@ without some friends and the [NErdeST](
 https://github.com/ShadowTemplate/OPPY#nerdest---2016-april-ongoing) gifting us 
 with their cards.
 
-[This is the epic final results](
+[This is the epic final result](
 https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/elric_final.jpg), 
 with the [base set](https://bulbapedia.bulbagarden.net/wiki/Base_Set_(TCG)), 
 [Jungle](https://bulbapedia.bulbagarden.net/wiki/Jungle_(TCG)) and [Fossil](
 https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)).
 
 ---
-## NErdeST - *2016, April* (ongoing)
+## NErdeST - *2016, April* (completed)
 
 **_NErdeST_ is the nerd club I have founded with a group of friends** while I 
 was living in [Nest](http://nest-trento.it/), a hall of residence in Trento.
 
 The club is composed of 40-50 people and over two years we have organized 
 dozens of weekly events and we have lived many unforgettable moments 
-*together*, which is a non-trivial thing, considering we are nerd.
+*together*, which is a non-trivial thing considering we are nerds.
 We have played together games (board games, role play games, videogames, 
 card games); we have watched together, day and night, TV series, movies, 
 animes; we have played soft air together and so on.
@@ -110,7 +110,7 @@ to share our passions with not-yet-nerd people, involving them in different
 events and parties.
 
 Coordinating this club has been unexpectedly hard and extraordinarily funny, 
-but most of all it has been an invaluable experience for the sett of soft 
+but most of all it has been an invaluable experience for the set of soft 
 skills I have improved (time management, verbal communication, leadership, 
 planning).
 
@@ -126,8 +126,8 @@ In addition, I have rediscovered some little pleasures coming from situations
 that are disappearing in modern society.
 
 It is really hard to explain how engaging and funny can be common things such 
-as travelling or eating.
-Just try and try and try again, you will slowly understand what I mean.
+as travelling or eating when you are offline.
+Just try, try and try again: you will slowly understand what I mean.
 
 Ah, sorry but... never expect *"Happy New Year!"* from me.
 
@@ -146,12 +146,11 @@ and also managed to [rank them](
 https://github.com/ShadowTemplate/OPPY/blob/master/%2350weeksofTED/TED%20talks%20ranking.txt
 ) (that was hard!).
 
-Even one single TED talk can influence your life, imagine 140.
-Moreover, during the year I have always had a lot of really nice conversation 
-topics and also the sensation to understand more profoundly the world around 
+During that year I have always had a lot of really nice conversation 
+topics and also the feeling to understand more profoundly the world around 
 me.
 I have successfully engaged my friends in this experience and I still love 
-watching new talks.
+watching new talks every now and then.
 
 Recently I have developed [a simple tool](
 https://github.com/ShadowTemplate/ted-downloader) to easily download talks from 
@@ -162,7 +161,7 @@ TED deserve your time and your support: **keep worthy ideas spreading**.
 ---
 ## Computer Scientists :floppy_disk: - *2015, October* (ongoing)
 
-Many people consider chat groups annoying and they tend to run away from them 
+Many people consider chat groups annoying and tend to run away from them 
 as soon as possible or, if not possibile, mute them (typically forever).
 I consider many of my groups an invaluable asset.
 In 2015, after my bachelor's degree, **I created a group with many university 
