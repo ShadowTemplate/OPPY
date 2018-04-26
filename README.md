@@ -26,7 +26,7 @@ I sincerely hope OPPY could **inspire you to follow your passions and your
 dreams**.
 
 ---
-## ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Asimov - *2018, April* (ongoing)
+## ![#00ff00](https://placehold.it/20/00ff00/000000?text=+) Asimov - *2018, April* (ongoing)
 
 > *Self-education is, I firmly believe, the only kind of education there is.* -
 Isaac Asimov
@@ -69,7 +69,7 @@ If you have anything interesting to suggest, feel free to share!
 Thanks Ramzi for having inspired me.
 
 ---
-## Elric - *2017, January* (completed)
+## ![#0000ff](https://placehold.it/20/0000ff/000000?text=+) Elric - *2017, January* (completed)
 
 This project tells a story about brotherhood, on how I have reconnected with 
 Checco after 2 years away from home.
