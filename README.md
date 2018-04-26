@@ -66,9 +66,28 @@ If you have anything interesting to suggest, feel free to share!
 Thanks Ramzi for having inspired me.
 
 ---
-## **Elric** - *2017, January* (completed)
+## Elric - *2017, January* (completed)
 
-TODO.
+This project tells a story about brotherhood, on how I have reconnected with 
+Checco after 2 years away from home.
+Together we have achieved our childhood dream and completed our Pokémon card 
+collection started in 1999, when we were 6 and 4.
+We have spent countless hours together, especially during Christmas and Easter, 
+trying to figure out how to collect and show the cards (over 200) and building 
+the frame.
+This is a story of eBay auctions won at night, of a continuous flow of packages
+from the postal service, of repetitive work, such as cutting 1000 adhesive 
+corners.
+It is a story of friendship as well, since nothing would have been possible 
+without some friends and the [NErdeST](
+https://github.com/ShadowTemplate/OPPY#nerdest---2016-april-ongoing) gifting us 
+with their cards.
+
+[This is the epic final results](
+https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/ring_binder.jpg), 
+with the [base set](https://bulbapedia.bulbagarden.net/wiki/Base_Set_(TCG)), 
+[Jungle](https://bulbapedia.bulbagarden.net/wiki/Jungle_(TCG)) and [Fossil](
+https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)).
 
 ---
 ## NErdeST - *2016, April* (ongoing)
@@ -117,7 +136,7 @@ the official website.
 TED deserve your time and your support: **keep worthy ideas spreading**.
 
 ---
-## **Computer Scientists :floppy_disk:** - *2015, October* (ongoing)
+## Computer Scientists :floppy_disk: - *2015, October* (ongoing)
 
 Many people consider chat groups annoying and they tend to run away from them 
 as soon as possible or, if not possibile, mute them (typically forever).
