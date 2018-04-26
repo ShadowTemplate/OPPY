@@ -66,11 +66,13 @@ Thanks Ramzi for having inspired me.
 
 TODO.
 
+---
 
 ## NErdeST - *2016, April* (ongoing)
 
 TODO.
 
+---
 
 ## #dayoff - *2016, January* (ongoing)
 
@@ -84,6 +86,7 @@ as travelling or eating.
 Just try and try and try again, you will slowly understand what I mean.
 Ah, sorry but... never expect *"Happy New Year!"* from me.
 
+***
 
 ## #50weeksofTED - *2015, October* (completed)
 
@@ -112,6 +115,7 @@ the official website.
 
 TED deserve your time and your support: **keep worthy ideas spreading**.
 
+***
 
 ## Computer Scientists 💾 - *2015, October* (ongoing)
 
@@ -121,8 +125,9 @@ I consider many of my groups an invaluable asset.
 In 2015, after my bachelor's degree, I created a group with many university 
 colleagues in order to keep in touch and, most of all, share interesting ideas,
 articles, news, advices, and, why not, jokes. No spam, no flooding.
-I learn a lot from them and, even more important, we still periodically reunite
-away from keyboards.
+I learn a lot from them and, even more important, [we still periodically 
+reunite away from keyboard](
+https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/computer_scientists.jpg).
 Thanks guys, you are awesome. 
 
 
@@ -134,5 +139,8 @@ and JavaScript, despite having attended over twenty university courses for my
 bachelor's degree in computer science. The final result was not for sure 
 extraordinary, but the customer was very satisfied and that was enough for me.
 I also earned some money I later spent for my modest 
-[LEGO collection]() #TODO. If you need some puppies, take a look at 
+[LEGO collection](
+https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/lego_collection.jpg).
+
+If you need some puppies, take a look at 
 [Xantudd's Kennel](http://www.xantudds.com/)!
