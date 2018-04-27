@@ -16,7 +16,7 @@ do not be too severe with me. Here you can find
 https://github.com/ShadowTemplate/OPPY/blob/master/Speck%26Tech%20talk/Speck%26Tech%20presentation%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.pdf), 
 [my notes](
 https://github.com/ShadowTemplate/OPPY/blob/master/Speck%26Tech%20talk/Speck%26Tech%20notes%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.txt) 
-and [the video]() (X:XX).
+and [the video](https://youtu.be/AseZbBq5qhA) (12:38).
 
 *Sharing is caring.* In this repository you can find further details about my 
 annual projects.
