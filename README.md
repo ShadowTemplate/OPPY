@@ -106,7 +106,7 @@ card games); we have watched together, day and night, TV series, movies,
 animes; we have played soft air together and so on.
 
 Beside reuniting all the types of nerds under a common flag we have also tried 
-to share our passions with not-yet-nerd people, involving them in different 
+to share our passions with not-yet-nerds, involving them in different 
 events and parties.
 
 Coordinating this club has been unexpectedly hard and extraordinarily funny, 
@@ -125,8 +125,8 @@ It is a way to detoxify from technology and get more in contact with people.
 In addition, I have rediscovered some little pleasures coming from situations 
 that are disappearing in modern society.
 
-It is really hard to explain how engaging and funny can be common things such 
-as travelling or eating when you are offline.
+It is really hard to explain how engaging and funny can be common things, such 
+as travelling or eating, when you are offline.
 Just try, try and try again: you will slowly understand what I mean.
 
 Ah, sorry but... never expect *"Happy New Year!"* from me.
@@ -156,7 +156,7 @@ Recently I have developed [a simple tool](
 https://github.com/ShadowTemplate/ted-downloader) to easily download talks from 
 the official website.
 
-TED deserve your time and your support: **keep worthy ideas spreading**.
+TED deserve your time and your support: *keep worthy ideas spreading*.
 
 ---
 ## ![#0fff7f](https://placehold.it/18/0fff7f/000000?text=+) Computer Scientists :floppy_disk: - *2015, October* (ongoing)
@@ -178,8 +178,8 @@ Thanks guys, you are awesome.
 During summer, **I developed a website** for my friend Nino, an afghan hounds 
 breeder in my hometown, Bari. It was my first real experience with CSS, HTML 
 and JavaScript, despite having attended over twenty university courses for my
-bachelor's degree in computer science. The final result was not for sure 
-extraordinary, but the customer was very satisfied and that was enough for me.
+bachelor's degree in computer science. The final result was not extraordinary
+for sure, but the customer was very satisfied and that was enough for me.
 I also earned some money I later spent for my modest 
 [LEGO collection](
 https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/lego_collection.jpg).
