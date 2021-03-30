@@ -26,6 +26,16 @@ I sincerely hope OPPY could **inspire you to follow your passions and your
 dreams**.
 
 ---
+Table of Contents
+=================
+* [Asimov - 2018, April (ongoing)](#roller_coaster-asimov---2018-april-ongoing)
+* [Elric - 2017, January (completed)](#checkered_flag-elric---2017-january-completed)
+* [NErdeST - 2016, April (completed)](#checkered_flag-nerdest---2016-april-completed)
+* [#dayoff - 2016, January (ongoing)](#roller_coaster-dayoff---2016-january-ongoing)
+* [#50weeksofTED - 2015, October (completed)](#checkered_flag-50weeksofted---2015-october-completed)
+* [Computer Scientists - 2015, October (ongoing)](#roller_coaster-computer-scientists-floppy_disk---2015-october-ongoing)
+* [Xantudd's Kennel - 2014, June (completed)](#checkered_flag-xantudds-kennel---2014-june-completed)
+---
 ## :roller_coaster: Asimov - *2018, April* (ongoing)
 
 > *Self-education is, I firmly believe, the only kind of education there is.* -
