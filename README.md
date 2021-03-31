@@ -28,6 +28,31 @@ Table of Contents
 * :checkered_flag: [Xantudd's Kennel - 2014, June](#checkered_flag-xantudds-kennel---2014-june-completed)
 
 ---
+### :roller_coaster: GPerks - *2021, March* (ongoing)
+
+TODO.
+
+---
+### :checkered_flag: Stay Connected - *2021, March* (completed)
+
+TODO.
+Note: luciacornelli.com
+
+---
+### :roller_coaster: Paperplanes - *2020, March* (ongoing)
+
+TODO.
+
+---
+### :checkered_flag: Amsterdam Pauper Series - *2019, February* (completed)
+
+TODO.
+
+Note: Battlebox.
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1wKzjICbDIuzmqw9NDI6G7SR1cgVtaz7FT_Xq26hiGt7fzDMbm79mHVqR4w4I4Dt8f5UrDmD3fuje/pubhtml?gid=0&single=true
+deckstats
+
+---
 ## :roller_coaster: One Song Per Artist - *2018, October* (ongoing)
 
 I don't listen to music a lot and, in general, I don't consider it as a fundamental part of my life.
