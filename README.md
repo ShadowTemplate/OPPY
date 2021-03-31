@@ -7,7 +7,7 @@ I firmly believe that engaging in these projects has a positive impact on my lif
 
 Further details can be found in the lightning-talk I gave for [Speck&Tech](http://speckand.tech/) in Trento.
 It was my first public speech, do not be too severe with me.
-Here you can find [the presentation](https://github.com/ShadowTemplate/OPPY/blob/master/Speck%26Tech%20talk/Speck%26Tech%20presentation%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.pdf), [my notes](https://github.com/ShadowTemplate/OPPY/blob/master/Speck%26Tech%20talk/Speck%26Tech%20notes%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.txt) and [the video](https://www.youtube.com/watch?v=AseZbBq5qhA) (12:38).
+Here you can find [the presentation](Speck%26Tech%20talk/Speck%26Tech%20presentation%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.pdf), [my notes](Speck%26Tech%20talk/Speck%26Tech%20notes%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.txt) and [the video](https://www.youtube.com/watch?v=AseZbBq5qhA) (12:38).
 
 *Sharing is caring.*
 In this repository you can find further details about my annual projects.
@@ -39,7 +39,7 @@ Inspired by the rich variety of [Reddit Beautiful Songs Playlist](https://open.s
 
 My [One Song Per Artist](https://open.spotify.com/playlist/2xFBe1fS6Lxr20XGleP1f1?si=32fc926961594741) playlist has proved to be a surprisingly fun decision-making exercise, an inclusive party soundtrack and a smart tool to avoid a Spotify premium account.
 
-In the [project folder](https://github.com/ShadowTemplate/OPPY/tree/master/One%20Song%20Per%20Artist) you can find additional material and plots.
+In the [project folder](One%20Song%20Per%20Artist) you can find additional material and plots.
 
 (*) *artist* is intended as in the complete Spotify entry, so a featuring won't be considered for the uniqueness criterion.
 In other words, I may have:
@@ -59,7 +59,7 @@ Isaac Asimov
 
 This is a famous quote I have heard from a former senior dev colleague and that I am starting to understand only now.
 After my master's degree I have become even more responsible for my own education.
-Similarly to [#50weeksofTED](https://github.com/ShadowTemplate/OPPY#50weeksofted---2015-october-completed), **I will try to spend the vast majority of my spare time reading scientific papers of different kinds**.
+Similarly to [#50weeksofTED](#checkered_flag-50weeksofted---2015-october-completed), **I will try to spend the vast majority of my spare time reading scientific papers of different kinds**.
 This time the task is way harder.
 
 I usually read each paper twice: the first time to grasp a general idea, the second to highlight the most important concepts.
