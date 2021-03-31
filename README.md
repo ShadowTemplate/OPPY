@@ -144,3 +144,5 @@ The final result was not extraordinary for sure, but the customer was very satis
 I also earned some money I later spent for my modest [LEGO collection](https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/lego_collection.jpg).
 
 If you are looking for some puppies to love, take a look at [Xantudd's Kennel](http://www.xantudds.com/)!
+
+![Xantudd's Kennel](Xantudd's%20Kennel/home_screenshot.png)
