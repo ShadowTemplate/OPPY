@@ -65,7 +65,7 @@ This time the task is way harder.
 I usually read each paper twice: the first time to grasp a general idea, the second to highlight the most important concepts.
 Then, I classify them by year and title in [my ring binder](https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/ring_binder.jpg).
 
-In the [project folder](https://github.com/ShadowTemplate/OPPY/tree/master/Asimov) you can find the [talks I have already read](https://github.com/ShadowTemplate/OPPY/blob/master/Asimov/list.txt) for the project, [those read in the past years](https://github.com/ShadowTemplate/OPPY/blob/master/Asimov/legacy/list.txt) that I will retro-classify, [those dropped](https://github.com/ShadowTemplate/OPPY/blob/master/Asimov/dropped/list.txt) and [my current reading list](https://github.com/ShadowTemplate/OPPY/blob/master/Asimov/queue/list.txt).
+In the [project folder](Asimov) you can find the [talks I have already read](Asimov/list.txt) for the project, [those read in the past years](Asimov/legacy/list.txt) that I will retro-classify, [those dropped](Asimov/dropped/list.txt) and [my current reading list](Asimov/queue/list.txt).
 
 I have developed [a simple tool](https://github.com/ShadowTemplate/arxiv-downloader) to easily download papers from [arXiv](http://arxiv.org/), the main source I use.
 
@@ -116,7 +116,7 @@ Ah, sorry but... never expect *"Happy New Year!"* from me.
 
 **For 50 weeks I have spent the vast majority of my spare time watching [TED](https://www.ted.com/) talks**.
 In the end I have watched over 140 talks (35 hours circa) and participated to three live TEDx events in Italy.
-I have [tweeted all of them to keep a history](https://twitter.com/search?l=&q=%2350weeksofTED%20from%3Adjanvito) ([txt version](https://github.com/ShadowTemplate/OPPY/blob/master/%2350weeksofTED/TED%20talks%20list.txt)) and also managed to [rank them](https://github.com/ShadowTemplate/OPPY/blob/master/%2350weeksofTED/TED%20talks%20ranking.txt) (that was hard!).
+I have [tweeted all of them to keep a history](https://twitter.com/search?l=&q=%2350weeksofTED%20from%3Adjanvito) ([txt version](%2350weeksofTED/TED%20talks%20list.txt)) and also managed to [rank them](%2350weeksofTED/TED%20talks%20ranking.txt) (that was hard!).
 
 During that year I have always had a lot of really nice conversation topics and also the feeling to understand more profoundly the world around me.
 I have successfully engaged my friends in this experience and I still love watching new talks every now and then.
