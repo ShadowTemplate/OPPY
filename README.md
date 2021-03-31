@@ -7,7 +7,7 @@ I firmly believe that engaging in these projects has a positive impact on my lif
 
 Further details can be found in the lightning-talk I gave for [Speck&Tech](http://speckand.tech/) in Trento.
 It was my first public speech, do not be too severe with me.
-Here you can find [the presentation](Speck%26Tech%20talk/Speck%26Tech%20presentation%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.pdf), [my notes](Speck%26Tech%20talk/Speck%26Tech%20notes%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.txt) and [the video](https://www.youtube.com/watch?v=AseZbBq5qhA) (12:38).
+Here you can find [the presentation](README/Speck%26Tech%20presentation%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.pdf), [my notes](README/Speck%26Tech%20notes%20-%20OPPY:%20on%20the%20importance%20of%20personal%20projects.txt) and [the video](https://www.youtube.com/watch?v=AseZbBq5qhA) (12:38).
 
 *Sharing is caring.*
 In this repository you can find further details about my annual projects.
@@ -82,7 +82,9 @@ We have spent countless hours together, especially during Christmas and Easter, 
 This is a story of eBay auctions won at night, of a continuous flow of packages from the postal service, of repetitive work, such as cutting 1000 adhesive corners.
 It is a story of friendship as well, since nothing would have been possible without some friends and the [NErdeST](https://github.com/ShadowTemplate/OPPY#nerdest---2016-april-ongoing) gifting us with their cards.
 
-[This is the epic final result](https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/elric_final.jpg), with the [base set](https://bulbapedia.bulbagarden.net/wiki/Base_Set_(TCG)), [Jungle](https://bulbapedia.bulbagarden.net/wiki/Jungle_(TCG)) and [Fossil](https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)).
+This is the epic final result, with the [base set](https://bulbapedia.bulbagarden.net/wiki/Base_Set_(TCG)), [Jungle](https://bulbapedia.bulbagarden.net/wiki/Jungle_(TCG)) and [Fossil](https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)).
+
+![Elric](Elric/elric_final.jpg)
 
 ---
 ## :checkered_flag: NErdeST - *2016, April* (completed)
@@ -125,6 +127,18 @@ Recently I have developed [a simple tool](https://github.com/ShadowTemplate/ted-
 
 TED deserve your time and your support: *keep worthy ideas spreading*.
 
+This was my top-10:
+1. [Dean Kamen: The emotion behind invention](https://www.ted.com/talks/dean_kamen_the_emotion_behind_invention)
+2. [Hugh Herr: New Bionics Let Us Run, Climb and Dance](https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance)
+3. [Dean Kamen: Luke, a new prosthetic arm for soldiers](https://www.ted.com/talks/dean_kamen_luke_a_new_prosthetic_arm_for_soldiers)
+4. [Barry Schwartz: The paradox of choice](https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice)
+5. [Diana Nyad: Never, ever give up](https://www.ted.com/talks/diana_nyad_never_ever_give_up)
+6. [Benjamin Zander: The transformative power of classical music](https://www.ted.com/talks/benjamin_zander_the_transformative_power_of_classical_music)
+7. [Ken Robinson: Do schools kill creativity?](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity)
+8. [Brené Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability)
+9. [Brené Brown: Listening to shame](https://www.ted.com/talks/brene_brown_listening_to_shame)
+10. [Ken Robinson: Bring on the learning revolution!](https://www.ted.com/talks/sir_ken_robinson_bring_on_the_learning_revolution)
+
 ---
 ## :roller_coaster: Computer Scientists :floppy_disk: - *2015, October* (ongoing)
 
@@ -132,8 +146,10 @@ Many people consider chat groups annoying and tend to run away from them as soon
 I consider many of my groups an invaluable asset.
 In 2015, after my bachelor's degree, **I created a group with many university colleagues** in order to keep in touch and, most of all, share interesting ideas, articles, news, advices, and, why not, jokes.
 No spam, no flooding.
-I learn a lot from them and, even more important, [we still periodically reunite away from keyboard](https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/computer_scientists.jpg).
+I learn a lot from them and, even more important, we still periodically reunite away from keyboard.
 Guys, you are awesome! Thank you.
+
+![Computer Scientists](Computer%20Scientists/computer_scientists.jpg)
 
 ---
 ## :checkered_flag: Xantudd's Kennel - *2014, June* (completed)
@@ -141,7 +157,7 @@ Guys, you are awesome! Thank you.
 During summer, **I developed a website** for my friend Nino, an afghan hounds breeder in my hometown, Bari.
 It was my first real experience with CSS, HTML and JavaScript, despite having attended over twenty university courses for my bachelor's degree in computer science.
 The final result was not extraordinary for sure, but the customer was very satisfied and that was enough for me.
-I also earned some money I later spent for my modest [LEGO collection](https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/lego_collection.jpg).
+I also earned some money I later spent for my modest [LEGO collection](https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/README/lego_collection.jpg).
 
 If you are looking for some puppies to love, take a look at [Xantudd's Kennel](http://www.xantudds.com/)!
 
