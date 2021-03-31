@@ -63,7 +63,7 @@ Similarly to [#50weeksofTED](#checkered_flag-50weeksofted---2015-october-complet
 This time the task is way harder.
 
 I usually read each paper twice: the first time to grasp a general idea, the second to highlight the most important concepts.
-Then, I classify them by year and title in [my ring binder](https://raw.githubusercontent.com/ShadowTemplate/OPPY/master/pictures/ring_binder.jpg).
+Then, I classify them by year and title in my ring binder.
 
 In the [project folder](Asimov) you can find the [talks I have already read](Asimov/list.txt) for the project, [those read in the past years](Asimov/legacy/list.txt) that I will retro-classify, [those dropped](Asimov/dropped/list.txt) and [my current reading list](Asimov/queue/list.txt).
 
@@ -72,6 +72,8 @@ I have developed [a simple tool](https://github.com/ShadowTemplate/arxiv-downloa
 If you have anything interesting to suggest, feel free to share!
 
 Thanks Ramzi for having inspired me.
+
+![Asimov](Asimov/ring_binder.jpg)
 
 ---
 ## :checkered_flag: Elric - *2017, January* (completed)
