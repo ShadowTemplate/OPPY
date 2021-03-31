@@ -82,6 +82,8 @@ but not also:
 
 ![One Song Per Artist](One%20Song%20Per%20Artist/plot_30_03_2021.png)
 
+*Update (2020, July)*: I started an instrumental spin-off of the project at [One Song Per Artist - Instrumental](https://open.spotify.com/playlist/2AKId0drAP12ZyuPncCq1j?si=87d86c1cd8374ee1).
+
 ---
 ## :roller_coaster: Asimov - *2018, April* (ongoing)
 
@@ -118,6 +120,8 @@ It is a story of friendship as well, since nothing would have been possible with
 This is the epic final result, with the [base set](https://bulbapedia.bulbagarden.net/wiki/Base_Set_(TCG)), [Jungle](https://bulbapedia.bulbagarden.net/wiki/Jungle_(TCG)) and [Fossil](https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)).
 
 ![Elric](Elric/elric_final.jpg)
+
+*Update (2021, March)*: Checco kept on collecting cards and has also completed [Team Rocket](https://bulbapedia.bulbagarden.net/wiki/Team_Rocket_(TCG)), [Gym Heroes](https://bulbapedia.bulbagarden.net/wiki/Gym_Heroes_(TCG)), [Gym Challenge](https://bulbapedia.bulbagarden.net/wiki/Gym_Challenge_(TCG)), [Neo Genesis](https://bulbapedia.bulbagarden.net/wiki/Neo_Genesis_(TCG)), [Neo Discovery](https://bulbapedia.bulbagarden.net/wiki/Neo_Discovery_(TCG)), [Neo Revelation](https://bulbapedia.bulbagarden.net/wiki/Neo_Revelation_(TCG)), [Neo Destiny](https://bulbapedia.bulbagarden.net/wiki/Neo_Destiny_(TCG)), [Southern Islands](https://bulbapedia.bulbagarden.net/wiki/Southern_Islands_(TCG)) and old-framed [Wizards Black Star Promos](https://bulbapedia.bulbagarden.net/wiki/Wizards_Black_Star_Promos_(TCG))!
 
 ---
 ## :checkered_flag: NErdeST - *2016, April* (completed)
