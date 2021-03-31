@@ -51,6 +51,8 @@ but not also:
 * *song4* by **X** (conflicts with *song1*)
 * *song5* by **X, Y** (conflicts with *song3*)
 
+![One Song Per Artist](One%20Song%20Per%20Artist/plot_30_03_2021.png)
+
 ---
 ## :roller_coaster: Asimov - *2018, April* (ongoing)
 
@@ -101,6 +103,8 @@ Beside reuniting all the types of nerds under a common flag, we have also tried 
 Coordinating this club has been unexpectedly hard and amusing, but most of all it has been an invaluable experience for the set of soft skills I have improved (time management, verbal communication, leadership, planning).
 
 The club is now managed by a group of guys still living in Trento.
+
+![NErdeST](NErdeST/logo.jpg)
 
 ---
 ## :roller_coaster: #dayoff - *2016, January* (ongoing)
