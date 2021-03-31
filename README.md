@@ -18,13 +18,14 @@ I sincerely hope OPPY could **inspire you to follow your passions and your dream
 ---
 Table of Contents
 =================
-* [Asimov - 2018, April (ongoing)](#roller_coaster-asimov---2018-april-ongoing)
-* [Elric - 2017, January (completed)](#checkered_flag-elric---2017-january-completed)
-* [NErdeST - 2016, April (completed)](#checkered_flag-nerdest---2016-april-completed)
-* [#dayoff - 2016, January (ongoing)](#roller_coaster-dayoff---2016-january-ongoing)
-* [#50weeksofTED - 2015, October (completed)](#checkered_flag-50weeksofted---2015-october-completed)
-* [Computer Scientists - 2015, October (ongoing)](#roller_coaster-computer-scientists-floppy_disk---2015-october-ongoing)
-* [Xantudd's Kennel - 2014, June (completed)](#checkered_flag-xantudds-kennel---2014-june-completed)
+* :roller_coaster: [One Song Per Artist - 2018, October](#roller_coaster-one-song-per-artist---2018-october-ongoing)
+* :roller_coaster: [Asimov - 2018, April](#roller_coaster-asimov---2018-april-ongoing)
+* :checkered_flag: [Elric - 2017, January](#checkered_flag-elric---2017-january-completed)
+* :checkered_flag: [NErdeST - 2016, April](#checkered_flag-nerdest---2016-april-completed)
+* :roller_coaster: [#dayoff - 2016, January](#roller_coaster-dayoff---2016-january-ongoing)
+* :checkered_flag: [#50weeksofTED - 2015, October](#checkered_flag-50weeksofted---2015-october-completed)
+* :roller_coaster: [Computer Scientists - 2015, October](#roller_coaster-computer-scientists-floppy_disk---2015-october-ongoing)
+* :checkered_flag: [Xantudd's Kennel - 2014, June](#checkered_flag-xantudds-kennel---2014-june-completed)
 
 ---
 ## :roller_coaster: One Song Per Artist - *2018, October* (ongoing)
