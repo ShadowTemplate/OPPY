@@ -18,6 +18,10 @@ I sincerely hope OPPY could **inspire you to follow your passions and your dream
 ---
 Table of Contents
 =================
+* :roller_coaster: [GPerks - 2021, March](#roller_coaster-gperks---2021-march-ongoing)
+* :checkered_flag: [Stay Connected - 2021, March](#checkered_flag-stay-connected---2021-march-completed)
+* :roller_coaster: [Paperplanes - 2020, March](#roller_coaster-paperplanes---2020-march-ongoing)
+* :checkered_flag: [Amsterdam Pauper Series - 2019, February](#checkered_flag-amsterdam-pauper-series---2019-february-completed)
 * :roller_coaster: [One Song Per Artist - 2018, October](#roller_coaster-one-song-per-artist---2018-october-ongoing)
 * :roller_coaster: [Asimov - 2018, April](#roller_coaster-asimov---2018-april-ongoing)
 * :checkered_flag: [Elric - 2017, January](#checkered_flag-elric---2017-january-completed)
@@ -28,23 +32,23 @@ Table of Contents
 * :checkered_flag: [Xantudd's Kennel - 2014, June](#checkered_flag-xantudds-kennel---2014-june-completed)
 
 ---
-### :roller_coaster: GPerks - *2021, March* (ongoing)
+## :roller_coaster: GPerks - *2021, March* (ongoing)
 
 TODO.
 
 ---
-### :checkered_flag: Stay Connected - *2021, March* (completed)
+## :checkered_flag: Stay Connected - *2021, March* (completed)
 
 TODO.
 Note: luciacornelli.com
 
 ---
-### :roller_coaster: Paperplanes - *2020, March* (ongoing)
+## :roller_coaster: Paperplanes - *2020, March* (ongoing)
 
 TODO.
 
 ---
-### :checkered_flag: Amsterdam Pauper Series - *2019, February* (completed)
+## :checkered_flag: Amsterdam Pauper Series - *2019, February* (completed)
 
 TODO.
 
