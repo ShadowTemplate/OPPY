@@ -39,8 +39,7 @@ TODO.
 ---
 ## :checkered_flag: Stay Connected - *2021, March* (completed)
 
-TODO.
-Note: luciacornelli.com
+TODO. Note: luciacornelli.com
 
 ---
 ## :roller_coaster: Paperplanes - *2020, March* (ongoing)
@@ -50,11 +49,33 @@ TODO.
 ---
 ## :checkered_flag: Amsterdam Pauper Series - *2019, February* (completed)
 
-TODO.
+[Pauper](https://magic.wizards.com/en/game-info/gameplay/formats/pauper) is my favourite [Magic: The Gathering](http://magic.wizards.com/) format, because it's fun, cheap and strategic.
+I learnt how to play Magic in 2016, and I realized this game is so popular that players can be found everywhere.
 
-Note: Battlebox.
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1wKzjICbDIuzmqw9NDI6G7SR1cgVtaz7FT_Xq26hiGt7fzDMbm79mHVqR4w4I4Dt8f5UrDmD3fuje/pubhtml?gid=0&single=true
-deckstats
+When I moved to Amsterdam in 2019, playing Pauper offered me the chance to meet new people that soon became good friends.
+I immediately joined the local community, and I pleasantly discovered that a series of tournament was going to be organized over the course of the year.
+
+During 2019, I decided to focus on Pauper and to become a better player.
+I tried to master existing archetypes and to brew new decks, with the intention to become #1 in the ranking and to qualify for the final event reserved to the top8.
+
+At the end of 2019, I didn't win any of the 5 tournaments, and my best result was a 3rd place.
+However, I managed to consistently get good results by playing my favourite decks, despite them not generally being among the best performing ones.
+In the end, I managed [to achieve my goal](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1wKzjICbDIuzmqw9NDI6G7SR1cgVtaz7FT_Xq26hiGt7fzDMbm79mHVqR4w4I4Dt8f5UrDmD3fuje/pubhtml?gid=0&single=true) and to qualify as #1 for the final event (which I also lost).
+
+I loved my Pauper journey, both for the steps I took alone and for those shared with the community.
+
+Alone, I collected and organized Pauper deck lists on [deckstats](https://deckstats.net/decks/78813/) and proudly completed my battlebox.
+
+![Battle Box](Amsterdam%20Pauper%20Series/battle_box.jpg)
+
+With the community, we tried to organize friendly and inclusive tournaments, trying to bring new players also from other cities.
+Lending decks, collecting stats, and spending some Sundays together was my favourite routine and one of the best thing of my 2019. 
+
+![Amsterdam Pauper Series](Amsterdam%20Pauper%20Series/APS.jpg)
+
+*Update (2020, February)*: Just before the COVID-19 pandemic, I represented with my friend Alessandro the Netherlands during [Paupergeddon 2020](http://pauperwave.altervista.org/paupergeddon-milano-2020-top8-metagame/) in Milan, one of the biggest Pauper event in Italy and in the world. The matches with the Russian guys were legendary, and this experience was the icing on the cake.
+
+![Amsterdam Pauper Series](Amsterdam%20Pauper%20Series/Paupergeddon_2020.jpg)
 
 ---
 ## :roller_coaster: One Song Per Artist - *2018, October* (ongoing)
