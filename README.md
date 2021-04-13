@@ -34,17 +34,23 @@ Table of Contents
 ---
 ## :roller_coaster: GPerks - *2021, March* (ongoing)
 
-TODO.
+Please wait the end of the year...
 
 ---
 ## :checkered_flag: Stay Connected - *2021, March* (completed)
 
-TODO. Note: luciacornelli.com
+Please wait the end of the year...
 
 ---
 ## :roller_coaster: Paperplanes - *2020, March* (ongoing)
 
-TODO.
+On March 28, as an attempt to fight the storm of bad news related to the beginning of the COVID-19 pandemic, I launched Paperplanes with 4 friends of mine.
+
+Paperplanes are flying questions taking off from inspiring, latent, beautiful contents and blown by the wind.
+
+Since June 20, we share 2 posts per week (on Wednesday and on Saturday). You can follow us on [Telegram](https://t.me/via_paperplanes) and on [Twitter](https://twitter.com/via_paperplanes).
+
+In a world where everyone believes to know all the answers, we try to ask good questions instead.
 
 ---
 ## :checkered_flag: Amsterdam Pauper Series - *2019, February* (completed)
